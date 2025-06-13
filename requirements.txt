@@ -2,7 +2,7 @@ flask
 opencv-python
 multiprocessing
 eel
-subprocess
+
 os
 shlex
 sqlite3
